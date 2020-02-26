@@ -34,6 +34,7 @@ Currently:
 11. Units are also limited to something like 200. Shouldn't be an issue I think. 
 12. Upgrading units is built-in, though I haven't found where one controls that cost....
 13. Fighing mechanics are nearly-fully realizable. Zone of control and not unit stacking requires some lua scripting. Not unit stacking can be solved with a signal.connect on "unit move", and can just return the unit back to the original tile with full movement points and reset the pathfinding. For AI, this creates a bunch of issues, that I will have to look at. ZOC is a little trickier, as that will have to likely be controlled similarly to unit-stacking restrictions. Again, AI will have issues. 
+14. Other mechanics are going to be hit or miss, like unit healing, missionary uses remaining/faith power, musician power, etc.
 
 ### Fighting re-definition
 
