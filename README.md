@@ -33,7 +33,7 @@ Currently:
 10. Promotions and National Promotions are possible. Limit is currently 45. so will have to define these later. I see an issue with perhaps special unit flags. Like the Shoeshone and their specialized pathfinder trait that gets carried through the game. 
 11. Units are also limited to something like 200. Shouldn't be an issue I think. 
 12. Upgrading units is built-in, though I haven't found where one controls that cost....
-13. 
+13. Fighing mechanics are nearly-fully realizable. Zone of control, and not allowing unit stacking are the only things remaining. 
 
 
 ### Fighting re-definition
